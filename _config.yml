@@ -1,2 +1,5 @@
 name: Alejandro Rituerto Sin
 markdown: kramdown
+
+sass:
+  sass_dir: _sass
