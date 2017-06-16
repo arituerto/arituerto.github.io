@@ -1,2 +1,5 @@
 name: Alejandro Rituerto Sin
 markdown: kramdown
+
+collections:
+  - publications
