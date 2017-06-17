@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: PUBLICATIONS
 ---
 A. Rituerto, L. Puig, and J.J. Guerrero, **Visual slam with an omni-directional camera**, ICPR 2010

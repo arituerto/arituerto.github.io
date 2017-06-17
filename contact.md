@@ -1,11 +1,15 @@
 ---
-layout: default
-title: PUBLICATIONS
+layout: main
+title: CONTACT
 ---
-# [mail](mailto:aleritu@gmail.com)
+{: style="text-align: center"}
+[{% octicon mail height:128px %}](mailto:{{site.gmail_username}}@gmail.com)
 
-# [GitHub](https://github.com/arituerto)
+{: style="text-align: center"}
+[{% octicon mark-github height:128px %}](https://github.com/{{site.github_username}})
 
-# [LinkedIn](https://linkedin.com/in/alejandro-rituerto-sin-89177371)
+{: style="text-align: center"}
+[![LinkedIn](/assets/icons/In-Black-128px-R.png)](https://linkedin.com/in/{{site.linkedin_username}})
 
-# [Google Scholar](https://scholar.google.com/citations?user=Sg8AqEoAAAAJ&hl=en&oi=sra)
+{: style="text-align: center"}
+[{% octicon mortar-board height:128px %}](https://scholar.google.com/citations?user=Sg8AqEoAAAAJ&hl=en&oi=sra)

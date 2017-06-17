@@ -1,5 +1,15 @@
 name: Alejandro Rituerto Sin
 markdown: kramdown
 
+gmail_username:       aleritu
+github_username:      arituerto
+linkedin_username:    arituerto
+
 collections:
-  - publications
+  publications:
+    output: true
+  projects:
+    output: true
+
+gems:
+  - jekyll-octicons
