@@ -4,6 +4,7 @@ title: "Design and Development of a Computer Vision based Navigation Assistance 
 date: 2016-01-15
 start_date: 2016-01-15
 end_date: 2017-06-15
+collaborators: "James Coughlan, Giovanni Fusco"
 published: true
 ---
 
