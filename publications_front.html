@@ -1,0 +1,16 @@
+---
+layout: main
+title: BLOG
+---
+<ul class="posts">
+  {% for publication in site.publications %}
+    <li style="padding-top: 1em">
+
+      <h4>{{publication.publication_date | date: "%Y"}}</h4>
+
+			<a href="{{ publication.url }}">
+        {{ publication.authors}}, <b>{{ publication.title }}</b>, <i>{{ publication.publication_media}}</i>
+      </a>
+		</li>
+  {% endfor %}
+</ul>
