@@ -4,6 +4,7 @@ title: "Comparison of omnidirectional and conventional monocular systems for vis
 date: 2017-06-18
 publication_date: 2010-06-27
 publication_media: "10th Workshop on Omnidirectional Vision, Camera Networks and Non-classical Cameras (OMNIVIS) co-located with Robotics: Science & Systems (RSS), 2010"
+publication_media_short: "OMNIVIS 2010"
 publication_file: /assets/papers/2010-comparison-arituerto.pdf
 authors: "Alejandro Rituerto, Luis Puis, J.J. Guerrero"
 published: true

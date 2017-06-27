@@ -1,6 +1,6 @@
 ---
 layout: main
-title: BLOG
+title: PUBLICATIONS
 ---
 <ul class="posts">
   {% for publication in site.publications %}
@@ -8,9 +8,7 @@ title: BLOG
 
       <h4>{{publication.publication_date | date: "%Y"}}</h4>
 
-			<a href="{{ publication.url }}">
-        {{ publication.authors}}, <b>{{ publication.title }}</b>, <i>{{ publication.publication_media}}</i>
-      </a>
+      <a href="{{ publication.url }}"><b>{{ publication.title }}</b></a>, {{ publication.authors}}, <i>{{ publication.publication_media_short}}</i>
 		</li>
   {% endfor %}
 </ul>

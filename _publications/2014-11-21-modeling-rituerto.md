@@ -4,8 +4,9 @@ title: "Modeling the environment with egocentric vision systems"
 date: 2017-06-18
 publication_date: 2014-11-01
 publication_media: PhD dissertation
+publication_media_short: "Thesis"
 publication_file: /assets/papers/2014-modeling-arituerto.pdf
-authors: "Alejandro Rituerto"
+authors: "Alejandro Rituerto. Advisors: J.J. Guerrero, Ana C. Murillo"
 published: true
 ---
 

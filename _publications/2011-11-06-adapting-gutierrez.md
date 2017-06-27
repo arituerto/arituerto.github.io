@@ -4,6 +4,7 @@ title: "Adapting a real-time monocular visual slam from conventional to omnidire
 date: 2017-06-18
 publication_date: 2011-11-06
 publication_media: "Workshop on Omnidirectional Vision, Camera Networks and Non-classical Cameras (OMNIVIS). IEEE International Conference on Computer Vision Workshops (ICCV Workshops), 2011"
+publication_media_short: "OMNIVIS 2011"
 publication_file: /assets/papers/2011-adapting-gutierrez.pdf
 authors: "Daniel Gutiérrez, Alejandro Rituerto, J.M.M. Montiel, J.J. Guerrero"
 published: true
