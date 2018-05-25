@@ -5,7 +5,7 @@ date: 2017-06-18
 publication_date: 2016-10-01
 publication_media: "18th International ACM SIGACCESS Conference on Computers and Accessibility
 "
-publication_media_short: "ASSETS 2016"
+publication_media_short: "ASSETS"
 publication_file: /assets/papers/2016-towards-arituerto.pdf
 authors: "Alejandro Rituerto, Giovanni Fusco, James Coughlan"
 published: true
@@ -16,12 +16,12 @@ Navigation is a challenging task for many travelers with visual impairments. Whi
 
 {% highlight bib %}
   @conference{towards2016rituerto,
-  	title = {Towards a Sign-Based Indoor Navigation System for People with Visual Impairments},
-  	booktitle = {18th International ACM SIGACCESS Conference on Computers and Accessibility},
-  	year = {2016},
-  	publisher = {ACM},
-  	organization = {ACM},
-  	address = {Reno, NV},
-  	author = {Alejandro Rituerto and Giovanni Fusco and James Coughlan}
+  title = {Towards a Sign-Based Indoor Navigation System for People with Visual Impairments}
+  booktitle = {18th International ACM SIGACCESS Conference on Computers and Accessibility}
+  year = {2016},
+  publisher = {ACM},
+  organization = {ACM},
+  address = {Reno, NV},
+  author = {Alejandro Rituerto and Giovanni Fusco and James Coughlan}
   }
 {% endhighlight %}

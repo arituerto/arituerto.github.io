@@ -3,8 +3,8 @@ layout: publication
 title: "Modeling the environment with egocentric vision systems"
 date: 2017-06-18
 publication_date: 2014-11-01
-publication_media: PhD dissertation
-publication_media_short: "Thesis"
+publication_media: "PhD dissertation"
+publication_media_short: "PhD dissertation"
 publication_file: /assets/papers/2014-modeling-arituerto.pdf
 authors: "Alejandro Rituerto. Advisors: J.J. Guerrero, Ana C. Murillo"
 published: true
@@ -12,6 +12,7 @@ published: true
 
 **Abstract:**
 More and more intelligent systems, both robots and wearable systems, are present in our everyday life. This kind of systems interact with the environment so they need suitable models of their surrounding. Depending on the tasks that they have to perform, the information or detail required in those models changes: from highly detailed 3D models for autonomous navigation systems, to semantic models including important information for the user such as the kind of area being traversed or the presence of objects. These models are created from the sensory data provided by the system. Cameras are an important sensor included in any intelligent system, thanks to their small size, cheap prices and the great amount of information that they provide. This thesis studies and develops new methods to create models of the environment with different semantic levels and different precision levels. There are two key-points in the subsequent approaches presented:
+
 - The use of egocentric vision systems. All the vision systems and image sequences used in this thesis characterize for a first-person (egocentric) point of view, where the camera moves with the system they are mounted on. Many wearable vision systems have appeared in the last years. These systems are used in many applications, from leisure to human assistance.
 - The use of omnidirectional vision. This kind of vision systems provide much more information that conventional cameras thanks to their wide field of view. However, they present additional difficulties due to distortions and require more complex projection models. This work studies different kinds of models of the environment:
 - Metric models: the objective of these models is to create accurate representations of the environment to localize the system with precision. This thesis focuses on the adaptation of this kind of models to use omnidirectional cameras, allowing to capture more information on each image and improve the localization results.

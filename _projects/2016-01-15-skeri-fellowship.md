@@ -5,7 +5,7 @@ date: 2016-01-15
 start_date: 2016-01-15
 end_date: 2017-06-15
 collaborators: "James Coughlan, Giovanni Fusco"
-published: false
+published: true
 ---
 
 ![Navigation Assistance approach](/assets/images/skeri-navigation-aid-approach.png){:class="img-responsive" style="padding:1em"}

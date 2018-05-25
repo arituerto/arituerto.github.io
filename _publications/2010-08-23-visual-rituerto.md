@@ -4,7 +4,7 @@ title: "Visual SLAM with an omnidirectional camera"
 date: 2017-06-18
 publication_date: 2010-08-23
 publication_media: 20th International Conference on Pattern Recognition (ICPR), 2010
-publication_media_short: "ICPR 2010"
+publication_media_short: "ICPR"
 publication_file: /assets/papers/2010-visual-arituerto.pdf
 authors: "Alejandro Rituerto, Luis Puis, J.J. Guerrero"
 published: true
