@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Comparison of omnidirectional and conventional monocular systems for visual SLAM"
-date: 2017-06-18
+date: 2010-06-27
 publication_date: 2010-06-27
 publication_media: "10th Workshop on Omnidirectional Vision, Camera Networks and Non-classical Cameras (OMNIVIS) co-located with Robotics: Science & Systems (RSS), 2010"
 publication_media_short: "OMNIVIS"
@@ -18,10 +18,10 @@ points as measurement image points. We perform experiments with images of both s
 ### *OMNIVIS 2010 Best Paper Award*
 
 {% highlight bib %}
-  @inproceedings{rituerto2010visual,
-    title={Comparison of omnidirectional and conventional monocular systems for visual SLAM},
-    author={Rituerto, Alejandro and Puig, Luis and Guerrero, Jos{\'e} Jes{\'u}s},
-    booktitle={10th Workshop on Omnidirectional Vision, Camera Networks and Non-classical Cameras (OMNIVIS) co-located with Robotics: Science & Systems (RSS), 2010},
-    year={2010},
-  }
+@inproceedings{rituerto2010visual,
+title={Comparison of omnidirectional and conventional monocular systems for visual SLAM},
+author={Rituerto, Alejandro and Puig, Luis and Guerrero, José Jesús},
+booktitle={10th Workshop on Omnidirectional Vision, Camera Networks and Non-classical Cameras (OMNIVIS) co-located with Robotics: Science & Systems (RSS), 2010},
+year={2010},
+}
 {% endhighlight %}
