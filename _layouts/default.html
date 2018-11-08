@@ -1,30 +1,31 @@
 <!DOCTYPE html>
-	<html lang="en">
-		<head>
-			<title>{{ page.title }}</title>
+<html lang="en">
 
-			<meta charset="utf-8">
-			<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<title>{{ page.title }}</title>
 
-			<!-- Including octicons -->
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/3.0.1/css/primer.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css">
+	<!-- Including octicons -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/3.0.1/css/primer.css">
 
-			<!-- Latest compiled and minified CSS -->
-			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css">
 
-			<!-- jQuery library -->
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-			<!-- Latest compiled JavaScript -->
-			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-			<!-- MathJax -->
-			<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-			<style>
-			.bg-header-footer {
+	<!-- MathJax -->
+	<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+	<style>
+		.bg-header-footer {
 				background-color: #2f2f2f;
 			}
 		  .navbar {
@@ -43,37 +44,39 @@
 			  list-style: none;
 			}
 			</style>
-		</head>
-		<body style="font-family:monospace; background-color:#e2e2e2;">
-			<nav class="navbar navbar-inverse bg-header-footer navbar-fixed-top">
-			  <div class="container-fluid">
-			    <a class="navbar-brand" href="/">arituerto</a>
-			    <div class="navbar-header">
-			      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-			        <span class="icon-bar"></span>
-			        <span class="icon-bar"></span>
-			        <span class="icon-bar"></span>
-			      </button>
-			    </div>
-			    <div class="collapse navbar-collapse" id="myNavbar">
-			      <ul class="nav navbar-nav navbar-right">
-			        <li><a href="/">HOME</a></li>
-			        <li><a href="/cv">CV</a></li>
-			        <li><a href="/posts_front">BLOG</a></li>
-			        <li class="dropdown">
-				        <a class="dropdown-toggle" data-toggle="dropdown">RESEARCH</a>
-				        <div class="dropdown-menu" style="padding: 1em 0.5em; line-height: 2em">
-				          <a class="dropdown-item" href="/publications_front">PUBLICATIONS</a>
-				          <a class="dropdown-item" href="/projects_front">PROJECTS</a>
-				        </div>
-				      </li>
-			        <li><a href="/contact">CONTACT</a></li>
-			      </ul>
-			    </div>
-			  </div>
-			</nav>
+</head>
 
-			{{ content }}
+<body style="font-family:monospace; background-color:#e2e2e2;">
+	<nav class="navbar navbar-inverse bg-header-footer navbar-fixed-top">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="/">arituerto</a>
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="/">HOME</a></li>
+					<li><a href="/cv">CV</a></li>
+					<li><a href="/posts_front">BLOG</a></li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown">RESEARCH</a>
+						<div class="dropdown-menu" style="padding: 1em 0.5em; line-height: 2em">
+							<a class="dropdown-item" href="/publications_front">PUBLICATIONS</a>
+							<a class="dropdown-item" href="/projects_front">PROJECTS</a>
+						</div>
+					</li>
+					<li><a href="/contact">CONTACT</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
 
-		</body>
-	</html>
+	{{ content }}
+
+</body>
+
+</html>
