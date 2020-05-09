@@ -3,9 +3,9 @@ layout: main
 title: Genesis Borough 2015 - The lost file
 ---
 
-*The information in this page was published in [genesis website](https://www.genesisbikes.co.uk/). As owner of an >X< I wanted to have this information accesible so I repoduced it here.*
-
 # Genesis Borough (2015)
+
+*The information in this page was published in [genesis website](https://www.genesisbikes.co.uk/). As owner (well my wife actually) of an Borough I wanted to have this information accesible so I repoduced it here.*
 
 Genesis Borough represents a perfect blend of classic, understated looks combined with the modern, dependable, good value for money and top-performing componentry. Featuring dependable Shimano Claris 8sp drivetrain with slightly reduced gearing (via the 46/34T chainset) for load carrying urban errands and integrated chainguard to protect your clothing. The subtly swept riser bar places the hands at a more neutral and comfortable angle, and helps give a slightly shorter, more upright and relaxed overall rider position. Shimano’s new M355 hydraulic disc brakes and fast rolling, puncture-resistant Conti Sport Contact tyres mean more riding, less fettling.
 

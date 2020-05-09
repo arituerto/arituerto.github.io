@@ -3,9 +3,9 @@ layout: main
 title: Kona HONZO CR Race (2017)
 ---
 
-*The information in this page was published in [Kona website](https://2017.konaworld.com/honzo_cr_race.cfm). As owner of Honzo from 2017 I wanted to have this information accesible so I repoduced it here.*
-
 # Honzo CR Race
+
+*The information in this page was published in [Kona website](https://2017.konaworld.com/honzo_cr_race.cfm). As owner of a Honzo from 2017 I wanted to have this information accesible so I repoduced it here.*
 
 This is how we see hardtail race bikes: a lighter weight carbon frame that has a more aggressive geometry, shorter chainstays that deliver more power, and a stiffer front end with 120mm of controlled travel. Call us visionaries—we even included dropper post routing to handle the increasingly gnarly World Cup courses that are popping up all over, future proofing you from the inevitable.
 
@@ -22,6 +22,7 @@ This is how we see hardtail race bikes: a lighter weight carbon frame that has a
 * Rear Tire: Maxxis Ikon EXO TR 3C 29x2.2"* Saddle: WTB SL8
 
 ## SPECIFICATIONS
+
 |                         |                                                                 |
 |:------------------------|:----------------------------------------------------------------|
 | Frame Material          |       Kona Carbon Trail                                         |
@@ -59,6 +60,7 @@ This is how we see hardtail race bikes: a lighter weight carbon frame that has a
 | Extras                  |       n/a                                                       |
 
 # GEOMETRY
+
 | Size          | S     | M     | L     | XL    |
 |:--------------|:------|:------|:------|:------|
 | ST Length     | 3     | 4     | 4     | 530    |
@@ -77,14 +79,14 @@ This is how we see hardtail race bikes: a lighter weight carbon frame that has a
 | Fork Leng     | 5     | 5     | 5     | 531    |
 | Fork Offs     | 5     | 5     | 5     | 51     |
 
-![Kona Honzo CR Race](/assets/images/honzocrrace000.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace001.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace002.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace003.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace004.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace005.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace006.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace007.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace008.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace009.jpg){:height="250px"}
-![Kona Honzo CR Race](/assets/images/honzocrrace010.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017000.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017001.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017002.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017003.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017004.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017005.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017006.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017007.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017008.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017009.jpg){:height="250px"}
+![Kona Honzo CR Race](/assets/images/honzocrrace2017010.jpg){:height="250px"}

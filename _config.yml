@@ -10,3 +10,5 @@ collections:
     output: true
   projects:
     output: true
+  bike:
+    output: true

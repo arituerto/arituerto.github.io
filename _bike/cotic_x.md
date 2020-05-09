@@ -3,9 +3,9 @@ layout: main
 title: COTIC X - The lost file
 ---
 
-*The information in this page was published in [cotic website](https://cotic.co.uk/product/x). As owner of an >X< I wanted to have this information accesible so I repoduced it here.*
-
 # COTIC X V3 Frame Details :
+
+*The information in this page was published in [cotic website](https://cotic.co.uk/product/x). As owner of an >X< I wanted to have this information accesible so I repoduced it here.*
 
 The Cotic >X< is our beautiful cyclocross frameset. It's Spritely, responsive and durable in the way that only the best steel frames are, and that's all allied to the Cotic cornerstones of involving handling, disc compatibility, versatility and huge tyre clearance. Off-road, on-road, commute, back lanes, adventure, audax, tour: It's your perfect partner-in-grime.
 Evolving into the latest version, the >X< now features:
