@@ -1,0 +1,11 @@
+---
+layout: main
+title: BLOG
+---
+<ul class="posts">
+  {% for post in site.bike %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
